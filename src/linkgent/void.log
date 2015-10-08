@@ -1,0 +1,218 @@
+2015-09-23 14:49:23,873 INFO 进程ID:31978
+2015-09-23 14:49:23,944 DEBUG Converted retries value: False -> Retry(total=False, connect=None, read=None, redirect=0)
+2015-09-23 14:49:23,944 INFO Starting new HTTP connection (1): 192.168.100.134
+2015-09-23 14:49:23,950 DEBUG "GET /_nodes/_all/clear HTTP/1.1" 200 247
+2015-09-23 14:49:23,950 INFO GET http://192.168.100.134:9200/_nodes/_all/clear [status:200 request:0.006s]
+2015-09-23 14:49:23,951 DEBUG > None
+2015-09-23 14:49:23,951 DEBUG < {"cluster_name":"elaradio","nodes":{"7oaQl2-bTv2oYWhla1josw":{"name":"radio1","transport_address":"inet[/192.168.100.134:9300]","host":"localhost","ip":"127.0.0.1","version":"1.5.0","build":"5448160","http_address":"inet[/192.168.100.134:9200]"}}}
+2015-09-23 14:49:23,965 INFO server Exceptionhttp://www.ximalaya.com/3865196/album/215599?page=1
+2015-09-23 14:49:23,966 INFO http://www.ximalaya.com/3865196/album/215599?page=1
+2015-09-23 14:49:23,966 INFO server Exceptionhttp://www.ximalaya.com/1120316/album/16098?page=1
+2015-09-23 14:49:23,966 INFO http://www.ximalaya.com/1120316/album/16098?page=1
+2015-09-23 14:49:23,966 INFO server Exceptionhttp://www.ximalaya.com/26697179/album/419170?page=1
+2015-09-23 14:49:23,966 INFO http://www.ximalaya.com/26697179/album/419170?page=1
+2015-09-23 14:49:23,966 INFO server Exceptionhttp://www.ximalaya.com/23298936/album/353313?page=1
+2015-09-23 14:49:23,967 INFO http://www.ximalaya.com/23298936/album/353313?page=1
+2015-09-23 14:49:23,967 INFO server Exceptionhttp://www.ximalaya.com/5634126/album/317735?page=1
+2015-09-23 14:49:23,967 INFO http://www.ximalaya.com/5634126/album/317735?page=1
+2015-09-23 14:49:23,967 INFO server Exceptionhttp://www.ximalaya.com/20780788/album/328189?page=1
+2015-09-23 14:49:23,967 INFO http://www.ximalaya.com/20780788/album/328189?page=1
+2015-09-23 14:49:23,967 INFO server Exceptionhttp://www.ximalaya.com/3407298/album/252204?page=1
+2015-09-23 14:49:23,967 INFO http://www.ximalaya.com/3407298/album/252204?page=1
+2015-09-23 14:49:23,968 INFO server Exceptionhttp://www.ximalaya.com/12030831/album/320114?page=1
+2015-09-23 14:49:23,968 INFO http://www.ximalaya.com/12030831/album/320114?page=1
+2015-09-23 14:49:23,968 INFO server Exceptionhttp://www.ximalaya.com/3121164/album/248886?page=1
+2015-09-23 14:49:23,968 INFO http://www.ximalaya.com/3121164/album/248886?page=1
+2015-09-23 14:49:23,968 INFO server Exceptionhttp://www.ximalaya.com/4604413/album/284838?page=1
+2015-09-23 14:49:23,968 INFO http://www.ximalaya.com/4604413/album/284838?page=1
+2015-09-23 14:49:23,968 INFO server Exceptionhttp://www.ximalaya.com/20390902/album/324288?page=1
+2015-09-23 14:49:23,969 INFO http://www.ximalaya.com/20390902/album/324288?page=1
+2015-09-23 14:49:23,969 INFO server Exceptionhttp://www.ximalaya.com/16079545/album/292191?page=1
+2015-09-23 14:49:23,969 INFO http://www.ximalaya.com/16079545/album/292191?page=1
+2015-09-23 14:49:23,969 INFO server Exceptionhttp://www.ximalaya.com/14297745/album/278276?page=1
+2015-09-23 14:49:23,969 INFO http://www.ximalaya.com/14297745/album/278276?page=1
+2015-09-23 14:49:23,969 INFO server Exceptionhttp://www.ximalaya.com/14297745/album/278276?page=2
+2015-09-23 14:49:23,969 INFO http://www.ximalaya.com/14297745/album/278276?page=2
+2015-09-23 14:49:23,970 INFO server Exceptionhttp://www.ximalaya.com/14297745/album/278276?page=3
+2015-09-23 14:49:23,970 INFO http://www.ximalaya.com/14297745/album/278276?page=3
+2015-09-23 14:49:23,970 INFO server Exceptionhttp://www.ximalaya.com/3006592/album/210843?page=1
+2015-09-23 14:49:23,970 INFO http://www.ximalaya.com/3006592/album/210843?page=1
+2015-09-23 14:49:23,970 INFO server Exceptionhttp://www.ximalaya.com/3006592/album/210843?page=2
+2015-09-23 14:49:23,970 INFO http://www.ximalaya.com/3006592/album/210843?page=2
+2015-09-23 14:49:23,970 INFO server Exceptionhttp://www.ximalaya.com/3006592/album/210843?page=3
+2015-09-23 14:49:23,970 INFO http://www.ximalaya.com/3006592/album/210843?page=3
+2015-09-23 14:49:23,971 INFO server Exceptionhttp://www.ximalaya.com/1459732/album/216179?page=1
+2015-09-23 14:49:23,971 INFO http://www.ximalaya.com/1459732/album/216179?page=1
+2015-09-23 14:49:23,971 INFO server Exceptionhttp://www.ximalaya.com/1459732/album/216179?page=2
+2015-09-23 14:49:23,971 INFO http://www.ximalaya.com/1459732/album/216179?page=2
+2015-09-23 14:49:23,971 INFO server Exceptionhttp://www.ximalaya.com/1013511/album/3058?page=1
+2015-09-23 14:49:23,971 INFO http://www.ximalaya.com/1013511/album/3058?page=1
+2015-09-23 14:49:23,971 INFO server Exceptionhttp://www.ximalaya.com/1013511/album/3058?page=2
+2015-09-23 14:49:23,971 INFO http://www.ximalaya.com/1013511/album/3058?page=2
+2015-09-23 14:49:23,972 INFO server Exceptionhttp://www.ximalaya.com/1013698/album/3306?page=1
+2015-09-23 14:49:23,972 INFO http://www.ximalaya.com/1013698/album/3306?page=1
+2015-09-23 14:49:23,972 INFO server Exceptionhttp://www.ximalaya.com/1013698/album/3306?page=2
+2015-09-23 14:49:23,972 INFO http://www.ximalaya.com/1013698/album/3306?page=2
+2015-09-23 14:49:24,142 INFO crawlerVoid End!
+2015-09-23 14:50:05,428 INFO 进程ID:32042
+2015-09-23 14:50:07,968 DEBUG Converted retries value: False -> Retry(total=False, connect=None, read=None, redirect=0)
+2015-09-23 14:50:07,971 INFO Starting new HTTP connection (1): 192.168.100.134
+2015-09-23 14:50:07,979 DEBUG "GET /_nodes/_all/clear HTTP/1.1" 200 247
+2015-09-23 14:50:07,981 INFO GET http://192.168.100.134:9200/_nodes/_all/clear [status:200 request:0.014s]
+2015-09-23 14:50:07,982 DEBUG > None
+2015-09-23 14:50:07,983 DEBUG < {"cluster_name":"elaradio","nodes":{"7oaQl2-bTv2oYWhla1josw":{"name":"radio1","transport_address":"inet[/192.168.100.134:9300]","host":"localhost","ip":"127.0.0.1","version":"1.5.0","build":"5448160","http_address":"inet[/192.168.100.134:9200]"}}}
+2015-09-23 14:50:12,934 INFO server Exceptionhttp://www.ximalaya.com/3865196/album/215599?page=1
+2015-09-23 14:50:13,937 INFO http://www.ximalaya.com/3865196/album/215599?page=1
+2015-09-23 14:50:43,978 INFO server Exceptionhttp://www.ximalaya.com/1120316/album/16098?page=1
+2015-09-23 14:50:43,979 INFO http://www.ximalaya.com/1120316/album/16098?page=1
+2015-09-23 14:51:03,522 INFO server Exceptionhttp://www.ximalaya.com/26697179/album/419170?page=1
+2015-09-23 14:51:03,523 INFO http://www.ximalaya.com/26697179/album/419170?page=1
+2015-09-23 14:51:41,366 INFO server Exceptionhttp://www.ximalaya.com/23298936/album/353313?page=1
+2015-09-23 14:51:41,367 INFO http://www.ximalaya.com/23298936/album/353313?page=1
+2015-09-23 14:51:47,285 INFO server Exceptionhttp://www.ximalaya.com/5634126/album/317735?page=1
+2015-09-23 14:51:47,286 INFO http://www.ximalaya.com/5634126/album/317735?page=1
+2015-09-23 14:52:13,118 INFO server Exceptionhttp://www.ximalaya.com/20780788/album/328189?page=1
+2015-09-23 14:53:30,140 INFO http://www.ximalaya.com/20780788/album/328189?page=1
+2015-09-23 14:53:37,153 INFO server Exceptionhttp://www.ximalaya.com/3407298/album/252204?page=1
+2015-09-23 14:53:41,661 INFO http://www.ximalaya.com/3407298/album/252204?page=1
+2015-09-23 14:53:49,368 INFO server Exceptionhttp://www.ximalaya.com/12030831/album/320114?page=1
+2015-09-23 14:53:51,178 INFO http://www.ximalaya.com/12030831/album/320114?page=1
+2015-09-23 14:53:56,282 INFO server Exceptionhttp://www.ximalaya.com/3121164/album/248886?page=1
+2015-09-23 14:53:56,283 INFO http://www.ximalaya.com/3121164/album/248886?page=1
+2015-09-23 14:54:56,161 INFO 进程ID:32435
+2015-09-23 14:54:56,173 DEBUG Converted retries value: False -> Retry(total=False, connect=None, read=None, redirect=0)
+2015-09-23 14:54:56,173 INFO Starting new HTTP connection (1): 192.168.100.134
+2015-09-23 14:54:56,179 DEBUG "GET /_nodes/_all/clear HTTP/1.1" 200 247
+2015-09-23 14:54:56,179 INFO GET http://192.168.100.134:9200/_nodes/_all/clear [status:200 request:0.006s]
+2015-09-23 14:54:56,179 DEBUG > None
+2015-09-23 14:54:56,180 DEBUG < {"cluster_name":"elaradio","nodes":{"7oaQl2-bTv2oYWhla1josw":{"name":"radio1","transport_address":"inet[/192.168.100.134:9300]","host":"localhost","ip":"127.0.0.1","version":"1.5.0","build":"5448160","http_address":"inet[/192.168.100.134:9200]"}}}
+2015-09-23 14:54:56,193 INFO server Exceptionhttp://www.ximalaya.com/3865196/album/215599?page=1
+2015-09-23 14:54:56,193 INFO http://www.ximalaya.com/3865196/album/215599?page=1
+2015-09-23 14:54:56,194 INFO server Exceptionhttp://www.ximalaya.com/1120316/album/16098?page=1
+2015-09-23 14:54:56,194 INFO http://www.ximalaya.com/1120316/album/16098?page=1
+2015-09-23 14:54:56,194 INFO server Exceptionhttp://www.ximalaya.com/26697179/album/419170?page=1
+2015-09-23 14:54:56,194 INFO http://www.ximalaya.com/26697179/album/419170?page=1
+2015-09-23 14:54:56,194 INFO server Exceptionhttp://www.ximalaya.com/23298936/album/353313?page=1
+2015-09-23 14:54:56,194 INFO http://www.ximalaya.com/23298936/album/353313?page=1
+2015-09-23 14:54:56,194 INFO server Exceptionhttp://www.ximalaya.com/5634126/album/317735?page=1
+2015-09-23 14:54:56,195 INFO http://www.ximalaya.com/5634126/album/317735?page=1
+2015-09-23 14:54:56,195 INFO server Exceptionhttp://www.ximalaya.com/20780788/album/328189?page=1
+2015-09-23 14:54:56,195 INFO http://www.ximalaya.com/20780788/album/328189?page=1
+2015-09-23 14:54:56,195 INFO server Exceptionhttp://www.ximalaya.com/3407298/album/252204?page=1
+2015-09-23 14:54:56,195 INFO http://www.ximalaya.com/3407298/album/252204?page=1
+2015-09-23 14:54:56,195 INFO server Exceptionhttp://www.ximalaya.com/12030831/album/320114?page=1
+2015-09-23 14:54:56,195 INFO http://www.ximalaya.com/12030831/album/320114?page=1
+2015-09-23 14:54:56,196 INFO server Exceptionhttp://www.ximalaya.com/3121164/album/248886?page=1
+2015-09-23 14:54:56,196 INFO http://www.ximalaya.com/3121164/album/248886?page=1
+2015-09-23 14:54:56,196 INFO server Exceptionhttp://www.ximalaya.com/4604413/album/284838?page=1
+2015-09-23 14:54:56,196 INFO http://www.ximalaya.com/4604413/album/284838?page=1
+2015-09-23 14:54:56,196 INFO server Exceptionhttp://www.ximalaya.com/20390902/album/324288?page=1
+2015-09-23 14:54:56,196 INFO http://www.ximalaya.com/20390902/album/324288?page=1
+2015-09-23 14:54:56,197 INFO server Exceptionhttp://www.ximalaya.com/16079545/album/292191?page=1
+2015-09-23 14:54:56,197 INFO http://www.ximalaya.com/16079545/album/292191?page=1
+2015-09-23 14:54:56,197 INFO server Exceptionhttp://www.ximalaya.com/14297745/album/278276?page=1
+2015-09-23 14:54:56,197 INFO http://www.ximalaya.com/14297745/album/278276?page=1
+2015-09-23 14:54:56,197 INFO server Exceptionhttp://www.ximalaya.com/14297745/album/278276?page=2
+2015-09-23 14:54:56,197 INFO http://www.ximalaya.com/14297745/album/278276?page=2
+2015-09-23 14:54:56,197 INFO server Exceptionhttp://www.ximalaya.com/14297745/album/278276?page=3
+2015-09-23 14:54:56,198 INFO http://www.ximalaya.com/14297745/album/278276?page=3
+2015-09-23 14:54:56,198 INFO server Exceptionhttp://www.ximalaya.com/3006592/album/210843?page=1
+2015-09-23 14:54:56,198 INFO http://www.ximalaya.com/3006592/album/210843?page=1
+2015-09-23 14:54:56,198 INFO server Exceptionhttp://www.ximalaya.com/3006592/album/210843?page=2
+2015-09-23 14:54:56,198 INFO http://www.ximalaya.com/3006592/album/210843?page=2
+2015-09-23 14:54:56,198 INFO server Exceptionhttp://www.ximalaya.com/3006592/album/210843?page=3
+2015-09-23 14:54:56,198 INFO http://www.ximalaya.com/3006592/album/210843?page=3
+2015-09-23 14:54:56,198 INFO server Exceptionhttp://www.ximalaya.com/1459732/album/216179?page=1
+2015-09-23 14:54:56,199 INFO http://www.ximalaya.com/1459732/album/216179?page=1
+2015-09-23 14:54:56,199 INFO server Exceptionhttp://www.ximalaya.com/1459732/album/216179?page=2
+2015-09-23 14:54:56,199 INFO http://www.ximalaya.com/1459732/album/216179?page=2
+2015-09-23 14:54:56,199 INFO server Exceptionhttp://www.ximalaya.com/1013511/album/3058?page=1
+2015-09-23 14:54:56,199 INFO http://www.ximalaya.com/1013511/album/3058?page=1
+2015-09-23 14:54:56,199 INFO server Exceptionhttp://www.ximalaya.com/1013511/album/3058?page=2
+2015-09-23 14:54:56,199 INFO http://www.ximalaya.com/1013511/album/3058?page=2
+2015-09-23 14:54:56,200 INFO server Exceptionhttp://www.ximalaya.com/1013698/album/3306?page=1
+2015-09-23 14:54:56,200 INFO http://www.ximalaya.com/1013698/album/3306?page=1
+2015-09-23 14:54:56,200 INFO server Exceptionhttp://www.ximalaya.com/1013698/album/3306?page=2
+2015-09-23 14:54:56,200 INFO http://www.ximalaya.com/1013698/album/3306?page=2
+2015-09-23 14:54:56,365 INFO crawlerVoid End!
+2015-09-23 14:55:01,699 INFO 进程ID:32497
+2015-09-23 14:55:01,724 DEBUG Converted retries value: False -> Retry(total=False, connect=None, read=None, redirect=0)
+2015-09-23 14:55:01,725 INFO Starting new HTTP connection (1): 192.168.100.134
+2015-09-23 14:55:01,730 DEBUG "GET /_nodes/_all/clear HTTP/1.1" 200 247
+2015-09-23 14:55:01,730 INFO GET http://192.168.100.134:9200/_nodes/_all/clear [status:200 request:0.006s]
+2015-09-23 14:55:01,730 DEBUG > None
+2015-09-23 14:55:01,731 DEBUG < {"cluster_name":"elaradio","nodes":{"7oaQl2-bTv2oYWhla1josw":{"name":"radio1","transport_address":"inet[/192.168.100.134:9300]","host":"localhost","ip":"127.0.0.1","version":"1.5.0","build":"5448160","http_address":"inet[/192.168.100.134:9200]"}}}
+2015-09-23 14:55:01,744 INFO server Exceptionhttp://www.ximalaya.com/3865196/album/215599?page=1
+2015-09-23 14:55:01,745 INFO http://www.ximalaya.com/3865196/album/215599?page=1
+2015-09-23 14:55:01,745 INFO server Exceptionhttp://www.ximalaya.com/1120316/album/16098?page=1
+2015-09-23 14:55:01,745 INFO http://www.ximalaya.com/1120316/album/16098?page=1
+2015-09-23 14:55:01,745 INFO server Exceptionhttp://www.ximalaya.com/26697179/album/419170?page=1
+2015-09-23 14:55:01,745 INFO http://www.ximalaya.com/26697179/album/419170?page=1
+2015-09-23 14:55:01,745 INFO server Exceptionhttp://www.ximalaya.com/23298936/album/353313?page=1
+2015-09-23 14:55:01,746 INFO http://www.ximalaya.com/23298936/album/353313?page=1
+2015-09-23 14:55:01,746 INFO server Exceptionhttp://www.ximalaya.com/5634126/album/317735?page=1
+2015-09-23 14:55:01,746 INFO http://www.ximalaya.com/5634126/album/317735?page=1
+2015-09-23 14:55:01,746 INFO server Exceptionhttp://www.ximalaya.com/20780788/album/328189?page=1
+2015-09-23 14:55:01,746 INFO http://www.ximalaya.com/20780788/album/328189?page=1
+2015-09-23 14:55:01,746 INFO server Exceptionhttp://www.ximalaya.com/3407298/album/252204?page=1
+2015-09-23 14:55:01,746 INFO http://www.ximalaya.com/3407298/album/252204?page=1
+2015-09-23 14:55:01,746 INFO server Exceptionhttp://www.ximalaya.com/12030831/album/320114?page=1
+2015-09-23 14:55:01,747 INFO http://www.ximalaya.com/12030831/album/320114?page=1
+2015-09-23 14:55:01,747 INFO server Exceptionhttp://www.ximalaya.com/3121164/album/248886?page=1
+2015-09-23 14:55:01,747 INFO http://www.ximalaya.com/3121164/album/248886?page=1
+2015-09-23 14:55:01,747 INFO server Exceptionhttp://www.ximalaya.com/4604413/album/284838?page=1
+2015-09-23 14:55:01,747 INFO http://www.ximalaya.com/4604413/album/284838?page=1
+2015-09-23 14:55:01,747 INFO server Exceptionhttp://www.ximalaya.com/20390902/album/324288?page=1
+2015-09-23 14:55:01,747 INFO http://www.ximalaya.com/20390902/album/324288?page=1
+2015-09-23 14:55:01,748 INFO server Exceptionhttp://www.ximalaya.com/16079545/album/292191?page=1
+2015-09-23 14:55:01,748 INFO http://www.ximalaya.com/16079545/album/292191?page=1
+2015-09-23 14:55:01,748 INFO server Exceptionhttp://www.ximalaya.com/14297745/album/278276?page=1
+2015-09-23 14:55:01,748 INFO http://www.ximalaya.com/14297745/album/278276?page=1
+2015-09-23 14:55:01,748 INFO server Exceptionhttp://www.ximalaya.com/14297745/album/278276?page=2
+2015-09-23 14:55:01,748 INFO http://www.ximalaya.com/14297745/album/278276?page=2
+2015-09-23 14:55:01,749 INFO server Exceptionhttp://www.ximalaya.com/14297745/album/278276?page=3
+2015-09-23 14:55:01,749 INFO http://www.ximalaya.com/14297745/album/278276?page=3
+2015-09-23 14:55:01,749 INFO server Exceptionhttp://www.ximalaya.com/3006592/album/210843?page=1
+2015-09-23 14:55:01,749 INFO http://www.ximalaya.com/3006592/album/210843?page=1
+2015-09-23 14:55:01,749 INFO server Exceptionhttp://www.ximalaya.com/3006592/album/210843?page=2
+2015-09-23 14:55:01,749 INFO http://www.ximalaya.com/3006592/album/210843?page=2
+2015-09-23 14:55:01,749 INFO server Exceptionhttp://www.ximalaya.com/3006592/album/210843?page=3
+2015-09-23 14:55:01,750 INFO http://www.ximalaya.com/3006592/album/210843?page=3
+2015-09-23 14:55:01,750 INFO server Exceptionhttp://www.ximalaya.com/1459732/album/216179?page=1
+2015-09-23 14:55:01,750 INFO http://www.ximalaya.com/1459732/album/216179?page=1
+2015-09-23 14:55:01,750 INFO server Exceptionhttp://www.ximalaya.com/1459732/album/216179?page=2
+2015-09-23 14:55:01,750 INFO http://www.ximalaya.com/1459732/album/216179?page=2
+2015-09-23 14:55:01,750 INFO server Exceptionhttp://www.ximalaya.com/1013511/album/3058?page=1
+2015-09-23 14:55:01,750 INFO http://www.ximalaya.com/1013511/album/3058?page=1
+2015-09-23 14:55:01,751 INFO server Exceptionhttp://www.ximalaya.com/1013511/album/3058?page=2
+2015-09-23 14:55:01,751 INFO http://www.ximalaya.com/1013511/album/3058?page=2
+2015-09-23 14:55:01,751 INFO server Exceptionhttp://www.ximalaya.com/1013698/album/3306?page=1
+2015-09-23 14:55:01,751 INFO http://www.ximalaya.com/1013698/album/3306?page=1
+2015-09-23 14:55:01,751 INFO server Exceptionhttp://www.ximalaya.com/1013698/album/3306?page=2
+2015-09-23 14:55:01,751 INFO http://www.ximalaya.com/1013698/album/3306?page=2
+2015-09-23 14:55:01,923 INFO crawlerVoid End!
+2015-09-23 14:55:31,619 INFO 进程ID:32558
+2015-09-23 14:55:32,158 DEBUG Converted retries value: False -> Retry(total=False, connect=None, read=None, redirect=0)
+2015-09-23 14:55:32,160 INFO Starting new HTTP connection (1): 192.168.100.134
+2015-09-23 14:55:32,166 DEBUG "GET /_nodes/_all/clear HTTP/1.1" 200 247
+2015-09-23 14:55:32,168 INFO GET http://192.168.100.134:9200/_nodes/_all/clear [status:200 request:0.010s]
+2015-09-23 14:55:32,168 DEBUG > None
+2015-09-23 14:55:32,168 DEBUG < {"cluster_name":"elaradio","nodes":{"7oaQl2-bTv2oYWhla1josw":{"name":"radio1","transport_address":"inet[/192.168.100.134:9300]","host":"localhost","ip":"127.0.0.1","version":"1.5.0","build":"5448160","http_address":"inet[/192.168.100.134:9200]"}}}
+2015-09-23 14:55:46,942 INFO server Exceptionhttp://www.ximalaya.com/3865196/album/215599?page=1
+2015-09-23 14:55:49,837 INFO http://www.ximalaya.com/3865196/album/215599?page=1
+2015-09-23 14:55:59,356 INFO server Exceptionhttp://www.ximalaya.com/1120316/album/16098?page=1
+2015-09-23 17:48:20,732 INFO 进程ID:1036
+2015-09-23 17:48:21,977 DEBUG Converted retries value: False -> Retry(total=False, connect=None, read=None, redirect=0)
+2015-09-23 17:48:21,978 INFO Starting new HTTP connection (1): 192.168.100.134
+2015-09-23 17:48:21,986 DEBUG "GET /_nodes/_all/clear HTTP/1.1" 200 247
+2015-09-23 17:48:21,988 INFO GET http://192.168.100.134:9200/_nodes/_all/clear [status:200 request:0.011s]
+2015-09-23 17:48:21,989 DEBUG > None
+2015-09-23 17:48:21,990 DEBUG < {"cluster_name":"elaradio","nodes":{"7oaQl2-bTv2oYWhla1josw":{"name":"radio1","transport_address":"inet[/192.168.100.134:9300]","host":"localhost","ip":"127.0.0.1","version":"1.5.0","build":"5448160","http_address":"inet[/192.168.100.134:9200]"}}}
+2015-09-23 17:48:29,645 INFO http://www.ximalaya.com/3865196/album/215599?page=1
+2015-09-23 17:48:32,909 INFO http://www.ximalaya.com/3865196/album/215599?page=1   1249864
+2015-09-23 17:48:34,251 INFO http://www.ximalaya.com/tracks/1249864.json
+2015-09-23 17:48:34,258 INFO Parse error
+2015-09-23 17:48:37,559 INFO http://www.ximalaya.com/1120316/album/16098?page=1
+2015-09-23 17:48:38,260 INFO http://www.ximalaya.com/1120316/album/16098?page=1   472965
+2015-09-23 17:48:39,164 INFO http://www.ximalaya.com/tracks/472965.json
+2015-09-23 17:48:39,165 INFO Parse error
